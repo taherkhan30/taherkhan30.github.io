@@ -21,7 +21,7 @@ timezone: Europe/London
 
 title: Tee Khan's Tech Notes                          # the main title
 
-tagline: Break through with Pragmatic cloud learning   # it will display as the sub-title
+tagline: Tech Blog | Azure Platform Engineer # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Break through with Pragmatic cloud learning.
